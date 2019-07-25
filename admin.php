@@ -314,7 +314,7 @@ $(document).ready(function(){
         </div>
     </div>
     <div class="container">
-  <a href="login.php" class="btn btn-primary">Back</a>
+  <a href="login.php" class="btn btn-primary">back</a>
     </div>
 </body>
 </html>                                                               
