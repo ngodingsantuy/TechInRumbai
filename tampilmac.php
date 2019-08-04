@@ -34,7 +34,7 @@
           <li class="nav-item active dropdown">
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">OperatingSystem</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="windows.php">Windwows</a>
+              <a class="dropdown-item" href="windows.php">Windows</a>
               <a class="dropdown-item" href="machintos.php">Machintos</a>
               <a class="dropdown-item" href="linux.php">Linux</a>
             </div>
