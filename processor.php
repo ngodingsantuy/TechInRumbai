@@ -60,7 +60,7 @@
     margin-top: 100px;">
     <div class="jumbotron jumbotron-fluid">
     <h1 class="display-4">PROCESSOR</h1>
-    <p class="lead">Berita seputar Hardware PROCESSOR.</p>
+    <p class="lead">Berita .</p>
 </div>
   </div>
 </section>
